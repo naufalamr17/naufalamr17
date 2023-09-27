@@ -1,6 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
 **naufalamr17/naufalamr17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Naufal Ammar Hidayatulloh 👋
+
+I'm a tech enthusiast passionate about:
+
+- Web Development 🌐
+- Back End Development ⚙️
+- Machine Learning 🤖
+
+Let's connect:
+
+- Email: <naufal.amr17@outlook.co.id>
+- Instagram: [@naufal_amr17](https://instagram.com/naufal_amr17)
+
+Let's innovate and code the future together! 🚀
