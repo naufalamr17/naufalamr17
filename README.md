@@ -1,38 +1,33 @@
-<!-- ### Hi there 👋
+# Hey there, I'm Naufal Ammar Hidayatulloh! 👋
 
-**naufalamr17/naufalamr17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Exploring the Tech Galaxy
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi, I'm Naufal Ammar Hidayatulloh 👋
-
-I'm a tech enthusiast passionate about:
+I'm a coding astronaut on a mission to discover the secrets of the tech universe. My spacecraft is equipped with:
 
 - Web Development 🌐
 - Back End Development ⚙️
 - Machine Learning 🤖
 
-Let's connect:
+🛠️ Technologies I Use:
 
-- Email: <naufal.amr17@outlook.co.id>
-- LinkedIn: [Naufal Ammar Hidayatulloh](https://www.linkedin.com/in/naufalamr17)
-- Instagram: [@naufal_amr17](https://instagram.com/naufal_amr17)
+- HTML, CSS, JavaScript
+- PHP
+- Node.js
+- Python
+- SQL
+- Bootstrap, Tailwind CSS
+- Laravel
 
-Let's innovate and code the future together! 🚀
+🌌 Let's Connect in Cyberspace:
+
+- 📧 Email: [naufal.amr17@outlook.co.id](mailto:naufal.amr17@outlook.co.id)
+- 🌐 LinkedIn: [Naufal Ammar Hidayatulloh](https://www.linkedin.com/in/naufalamr17)
+- 📸 Instagram: [@naufal_amr17](https://instagram.com/naufal_amr17)
+
+🪐 Join me as we orbit the codeverse, one commit at a time! 🌠
 
 ---
 
 ![Github Profile](https://github-readme-stats.vercel.app/api?username=naufalamr17&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalamr17&theme=tokyonight)
-
