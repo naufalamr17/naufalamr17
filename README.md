@@ -25,6 +25,11 @@ I'm a tech enthusiast passionate about:
 Let's connect:
 
 - Email: <naufal.amr17@outlook.co.id>
+- LinkedIn: [Naufal Ammar Hidayatulloh](https://www.linkedin.com/in/naufalamr17)
 - Instagram: [@naufal_amr17](https://instagram.com/naufal_amr17)
+
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=naufalamr17&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalamr17&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Let's innovate and code the future together! 🚀
