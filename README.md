@@ -11,12 +11,9 @@ I'm a coding astronaut on a mission to discover the secrets of the tech universe
 🛠️ Technologies I Use:
 
 - HTML, CSS, JavaScript
-- PHP
-- Node.js
-- Python
+- PHP, Node.js, Python
+- Bootstrap, Tailwind CSS, Laravel
 - SQL
-- Bootstrap, Tailwind CSS
-- Laravel
 
 🌌 Let's Connect in Cyberspace:
 
