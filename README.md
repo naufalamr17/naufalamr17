@@ -30,4 +30,4 @@ I'm a coding astronaut on a mission to discover the secrets of the tech universe
 
 ![Github Profile](https://github-readme-stats.vercel.app/api?username=naufalamr17&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalamr17&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalamr17&theme=tokyonight) --!>
