@@ -32,4 +32,7 @@ Let's innovate and code the future together! 🚀
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalamr17&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Github Profile](https://github-readme-stats.vercel.app/api?username=naufalamr17&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Github Profile](https://github-readme-stats.vercel.app/api?username=naufalamr17&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalamr17&theme=tokyonight)
+
