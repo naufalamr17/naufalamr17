@@ -25,6 +25,7 @@ I'm a coding astronaut on a mission to discover the secrets of the tech universe
 
 ---
 
-![Github Profile](https://github-readme-stats.vercel.app/api?username=naufalamr17&theme=tokyonight)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalamr17&theme=tokyonight) --!>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=naufalamr17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naufalamr17&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
