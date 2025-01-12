@@ -19,7 +19,7 @@ I'm a coding astronaut on a mission to discover the secrets of the tech universe
 
 - 📧 Email: [naufal.amr17@outlook.co.id](mailto:naufal.amr17@outlook.co.id)
 - 🌐 LinkedIn: [Naufal Ammar Hidayatulloh](https://www.linkedin.com/in/naufalamr17)
-- 📸 Instagram: [@naufal_amr17](https://instagram.com/naufal_amr17)
+- 📸 Instagram: [@nfl_17am](https://instagram.com/nfl_17am)
 
 🪐 Join me as we orbit the codeverse, one commit at a time! 🌠
 
